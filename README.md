@@ -298,4 +298,4 @@ If you want the full report of project
 
 ![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/admin/7-pielocation.png?raw=true)
 
-### Built with 🤍 AI RESUME ANALYZER by <a href="https://dnoobnerd.netlify.app/">Abhishek Mane </a>
+<!--### Built with 🤍 AI RESUME ANALYZER by <a href="https://dnoobnerd.netlify.app/">Abhishek Mane </a>-->
